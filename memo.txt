@@ -1,1 +1,5 @@
 master push
+develop push
+func1 push
+func2 push
+func3 push
